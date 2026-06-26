@@ -4,7 +4,7 @@ Hi, I'm Sai Sudha G 👋
   > Building scalable data pipelines, real-time streaming systems, and lakehouses.
   > Meta · Ex-Cognizant · MS 
 
-  ## 🛠 Tech Stack
+ 
  ## 🛠 Tech Stack
 
 **Languages & Query**
