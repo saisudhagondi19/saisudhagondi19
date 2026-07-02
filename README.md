@@ -51,7 +51,6 @@ Hi, I'm Sai Sudha G 👋
   *Active contributor to Apache Airflow and dbt-core*
 
   ## 📊 Stats
-  ## 📊 GitHub Stats
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=saisudhagondi19&theme=tokyonight)](https://git.io/streak-stats)
 
