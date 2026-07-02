@@ -54,6 +54,5 @@ Hi, I'm Sai Sudha G 👋
   ## 📊 GitHub Stats
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=saisudhagondi19&theme=tokyonight)](https://git.io/streak-stats)
-[![Top Languages](https://githubtrends.io/api?username=saisudhagondi19&theme=dark)](https://githubtrends.io)
 
   **📫 Contact:** saisudhagondi19@gmail.com | [LinkedIn](https://www.linkedin.com/in/saisudha-gondi)
